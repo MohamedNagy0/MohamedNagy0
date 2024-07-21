@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mohamednagymis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamednagymis" height="30" width="40" /></a>
+<a href="https://twitter.com/mohamednagymis" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamednagymis" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mohamed-nagy-soliman-68918a1a4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohamed-nagy-soliman-68918a1a4/" height="30" width="40" /></a>
 <a href="https://fb.com/mohamednagy.mis01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamednagy.mis01" height="30" width="40" /></a>
 <a href="https://instagram.com/mo.nagy.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mo.nagy.dev" height="30" width="40" /></a>
