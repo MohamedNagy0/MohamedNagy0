@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohamed Nagy Soliman Ali</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Nagy</h1>
 <h3 align="center">A passionate frontend react developer from Egypt</h3>
 <img  align="center" alt="Coding" width="100%"  src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 <hr/>
