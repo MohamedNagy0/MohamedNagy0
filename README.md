@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/mohamednagymis" target="blank"><img src="https://img.shields.io/twitter/follow/mohamednagymis?logo=twitter&style=for-the-badge" alt="mohamednagymis" /></a> </p>
 
 - 💬 Ask me about **React.js**
-- 🔭 I’m currently working on **Weather App using react,tsx,redux**
+- 🔭 I’m currently working on **Edu App and E-Commerce App using react,shadcn,tailwind,framerMotion**
 - 🌱 I’m currently learning **Ts,Next.js**
 
 - 📫 How to reach me **mohamednagy.mis@gmail.com**
